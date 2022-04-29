@@ -5,11 +5,17 @@ Taken from: Fadatare, Ramesh. (2020). Spring Boot Tutorial - Build Employee Mana
 Broken down:
 
 Part 1 - https://www.javaguides.net/2020/05/spring-boot-thymeleaf-crud-database-real-time-project-part1.html
+
 Part 2 - https://www.javaguides.net/2020/05/spring-boot-thymeleaf-crud-database-real-time-project-part2.html
+
 Part 3 - https://www.javaguides.net/2020/05/spring-boot-thymeleaf-crud-database-real-time-project-part3.html
+
 Part 4 - https://www.javaguides.net/2020/05/spring-boot-thymeleaf-crud-database-real-time-project-part4.html
+
 Part 5 - https://www.javaguides.net/2020/05/spring-boot-thymeleaf-crud-database-real-time-project-part5.html
+
 Part 6 - https://www.javaguides.net/2020/05/spring-boot-thymeleaf-crud-database-real-time-project-part6.html
+
 Part 7 - https://www.javaguides.net/2020/05/spring-boot-thymeleaf-crud-database-real-time-project-part7.html
 
 Videos:
